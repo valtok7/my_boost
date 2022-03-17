@@ -5,6 +5,7 @@
 
 int main(int argc, char **argv)
 {
+    int a;
     namespace asio = boost::asio;
     using asio::ip::tcp;
 
